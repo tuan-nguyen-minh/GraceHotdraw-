@@ -1,1 +1,1 @@
-# GraceHotdraw-
+GraceHotdraw framework for programming language Grace 
