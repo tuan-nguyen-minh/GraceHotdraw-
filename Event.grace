@@ -1,0 +1,3 @@
+class FigureEvent (_figure)  {
+
+}
